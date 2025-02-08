@@ -3,7 +3,10 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Veeresh H B) <br>-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hbveeresh048@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Veeresh H B) <br>
+<br>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hbveeresh048@gmail.com)
+- 📧 hbveeresh048@gmail.com
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
