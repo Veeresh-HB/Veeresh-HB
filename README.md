@@ -3,11 +3,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/veereshhavinal)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](www.linkedin.com/in/veereshhavinal)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/veereshhavinal)
-<br>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=black)](mailto:hbveeresh048@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black)].(https://linkedin.com/in/veereshhavinal)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)] (https://linkedin.com/in/veereshhavinal)<br>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=black)]  (mailto:hbveeresh048@gmail.com)
 - 📧 hbveeresh048@gmail.com
 
 # 💻 Tech Stack:
