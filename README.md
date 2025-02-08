@@ -1,9 +1,9 @@
 # 💫 About Me:
-# 👋 Hi, I'm Veeresh<br><br>I'm a Software Engineer at ABC with a passion for building innovative <br>solutions and exploring new technologies. I enjoy working on challenging<br> projects that make an impact.<br><br>- 🔭 Currently working as Test Analyst<br>- 🌱 Learning: Power Bi, Data Visualization<br>- 💬 Ask me about: VBA, SAS, STLC<br>
+# 👋 Hi, I'm Veeresh<br><br>I'm a Software Engineer at Capgemini with a passion for building innovative solutions and exploring new technologies. Passionate about leveraging cloud technology and automation to drive innovation and efficiency. Hands on experience in automating complex processes to enhance productivity and accuracy.<br><br>- 🔭 Currently working as Test Analyst<br>- 🌱 Learning: Power Bi, Data Visualization<br>- 💬 Ask me about: VBA, SAS(Statistical Analysis System), STLC<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Veeresh H B) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hbveeresh048@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Veeresh H B) <br>-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hbveeresh048@gmail.com)
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
