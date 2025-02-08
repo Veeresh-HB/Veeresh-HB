@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m @Veeresh-HB
 - 👀 I’m interested in learning scripting languages and implementing to make our daily tasks easier. 
-- 🌱 I’m currently learning Power Bi
-- 📫 Reach me ...
+- 🌱 I’m currently learning Power Bi, Data Visualization
+- 📫 Reach me @ www.linkedin.com/in/veeresh-h-b-76b539198
 - ⚡ Fun fact: I love to sing when alone, dance and play guitar.
 
 <!---
