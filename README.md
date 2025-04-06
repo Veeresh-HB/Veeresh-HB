@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Veeresh<br><br>I'm a Software Engineer at Capgemini with a passion for building innovative solutions and exploring new technologies. Passionate about leveraging cloud technology and automation to drive innovation and efficiency. Hands on experience in automating complex processes to enhance productivity and accuracy.<br><br>- 🔭 Currently working as Test Analyst<br>- 🌱 Learning: Power Bi, Data Visualization<br>- 💬 Ask me about: VBA, Excel Macros, SAS(Statistical Analysis System), STLC<br>
+# 👋 Hi, I'm Veeresh<br><br>I'm a Software Engineer at Capgemini with a passion for building innovative solutions and exploring new technologies. Passionate about leveraging cloud technology and automation to drive innovation and efficiency. Hands on experience in automating complex processes to enhance productivity and accuracy.<br><br>- 🔭 Currently working as Data Analyst<br>- 🌱 Learning: Power Bi, Data Visualization<br>- 💬 Ask me about: VBA, Excel Macros, SQL, Power BI, DAX<br>
 
 
 ## 🌐 Socials:
