@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black)].(https://linkedin.com/in/veereshhavinal)<br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=black)]  (mailto:hbveeresh048@gmail.com)
 
 
